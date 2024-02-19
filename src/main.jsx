@@ -5,10 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 import App from './App';
 import Error from './pages/Error';
-import Home from './pages/Home';
+import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import About from './pages/About';
-import Blog from './pages/Blog';
+import Resume from './pages/Resume';
 
 const router = createBrowserRouter([
   {
@@ -18,15 +18,15 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <Home />,
+        element: <Portfolio />,
       },
       {
         path: '/About',
         element: <About />,
       },
       {
-        path: '/Blog',
-        element: <Blog />,
+        path: '/Resume',
+        element: <Resume />,
       },
       {
         path: '/Contact',

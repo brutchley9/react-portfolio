@@ -1,0 +1,74 @@
+#portfolio-page {
+    display: flex;
+    margin-top: 1%;
+}
+
+#gists {
+    display: flex;
+    margin-top: 1%;
+}
+
+#resume-points {
+    margin-left: 2%;
+    list-style: none;
+}
+
+#eac {
+    margin-top: 3%;
+}
+
+#bio {
+    margin-top: 3%;
+}
+
+#plac {
+    margin-top: 3%;
+}
+
+#javascript {
+    margin-top: 3%;
+}
+
+#css {
+    margin-left: 5%;
+}
+
+#html {
+    margin-left: 10%;
+}
+
+#mysql {
+    margin-left: 15%;
+}
+
+#mongodb {
+    margin-left: 20%;
+}
+
+#heroku {
+    margin-left: 25%;
+}
+
+#mvc {
+    margin-left: 30%;
+}
+
+#jquery {
+    margin-left: 25%;
+}
+
+#bootstrap {
+    margin-left: 20%;
+}
+
+#insomnia {
+    margin-left: 15%;
+}
+
+#react {
+    margin-left: 10%;
+}
+
+#mern {
+    margin-left: 5%;
+}
