@@ -2,19 +2,14 @@ export default function Contact() {
     return (
       <div>
         <h1>Contact Page</h1>
-        <p>
-          Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-          molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-          magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-          efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-          mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-          posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-          faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-          ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-          dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-          rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-        </p>
+        <p>For any inqueries you may have, please send me an email at:</p>
+        <a id="my-email" href="bhutchison0901@yahoo.com">bhutchison0901@yahoo.com</a>
+        <div id="contact">
+        <input placeholder="Name" id="name-input"></input>
+        <input placeholder="Email" id="email-input"></input>
+        <input placeholder="Write Your Message:" id="message-input"></input>
+        <button id="submit-button">Submit</button>
+        </div>
       </div>
     );
 }

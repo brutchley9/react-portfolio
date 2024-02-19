@@ -72,3 +72,25 @@
 #mern {
     margin-left: 5%;
 }
+
+#name-input {
+margin-top: 2%;
+padding-right: 20%;
+}
+
+#email-input {
+margin-top: 1%;
+display: flex;
+padding-right: 20%;
+}
+
+#message-input {
+margin-top: 1%;
+display: flex;
+padding-right: 20%;
+padding-bottom: 20%;
+}
+
+#submit-button {
+    margin-top: 1%;
+}

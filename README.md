@@ -14,12 +14,8 @@ Follow link https://github.com/brutchley9/react-portfolio/ to access GitHub repo
 
 # Resources
 
-<li></li>
+<li>https://react.dev/reference/react-dom/hooks</li>
 
-<li></li>
+<li>https://vitejs.dev/guide/cli.html</li>
 
-<li></li>
-
-<li></li>
-
-<li></li>
+<li>https://legacy.reactjs.org/docs/react-dom.html</li>
