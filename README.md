@@ -19,3 +19,5 @@ Follow link https://github.com/brutchley9/react-portfolio/ to access GitHub repo
 <li>https://vitejs.dev/guide/cli.html</li>
 
 <li>https://legacy.reactjs.org/docs/react-dom.html</li>
+
+<li>https://www.w3schools.com/cssref/pr_background-image.php</li>
