@@ -1,6 +1,6 @@
 html {
     background-image: url("/assets/images/backgroundphoto2.jpg");
-    background-size: 150%;
+    background-size: 130%;
     background-repeat: no-repeat;
 }
 
@@ -27,6 +27,46 @@ html {
 #gists {
     display: flex;
     margin-top: 1%;
+}
+
+#project-1 {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+#project-2 {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+#project-3 {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+#project-4 {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+#project-1 img {
+    height: 30%;
+    width: 70%;
+}
+
+#project-2 img {
+    height: 30%;
+    width: 70%;
+}
+
+#project-3 img {
+    height: 30%;
+    width: 70%;
+}
+
+#project-4 img {
+    height: 30%;
+    width: 70%;
 }
 
 #resume-points {
@@ -113,7 +153,7 @@ padding-right: 20%;
 margin-top: 1%;
 display: flex;
 padding-right: 20%;
-padding-bottom: 20%;
+padding-bottom: 10%;
 }
 
 #submit-button {
