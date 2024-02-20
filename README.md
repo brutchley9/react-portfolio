@@ -12,7 +12,7 @@ To spin up this app locally, run an npm install for all dependencies included wi
 
 ---
 
-Follow link ----------- to access this website!
+Follow link https://jazzy-nougat-6dcce1.netlify.app/ to access this website!
 
 Follow link https://github.com/brutchley9/react-portfolio/ to access GitHub repository for this website (including code).
 
