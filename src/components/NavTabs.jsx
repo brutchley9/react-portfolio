@@ -38,6 +38,10 @@ function NavTabs() {
           Contact
         </Link>
       </li>
+      <li>
+        <p id="bradh">Brad Hutchison</p>
+        <p id="iac">innovation and Creativity</p>
+      </li>
     </ul>
   );
 }
