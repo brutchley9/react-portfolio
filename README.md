@@ -8,7 +8,7 @@ To spin up this app locally, run an npm install for all dependencies included wi
 
 ### Screenshot of webpage:
 
-<img src="./assets/images/reactscreenshot.png">
+<img src="./public/images/reactscreenshot.png">
 
 ---
 
