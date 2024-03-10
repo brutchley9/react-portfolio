@@ -14,7 +14,7 @@ export default function About() {
         
         <a id="portfolio-page" href="https://brutchley9.github.io/brad-hutchison-portfolio-page/">Portfolio Page</a>
         
-        <a id="gists" href="https://gist.github.com/brutchley9">Gist Contributions</a>
+        <a id="linkedin" href="https://www.linkedin.com/in/brad-hutchison-67a6672b9/">LinkedIn Profile</a>
       </div>
     );
 }

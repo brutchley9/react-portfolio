@@ -9,7 +9,7 @@ export default function Portfolio() {
         <a id="project-1" href="https://jakobytk.github.io/Superhero-Gen/"><img src="/marveldclogo.png"></img></a>
         <a id="project-2" href="https://brutchley9.github.io/bmi-calculator/"><img src="/bmicalcscreenshot.png"></img></a>
         <a id="project-3" href="https://powerful-scrubland-04775-c751bd3704ab.herokuapp.com/"><img src="/framefablespic.png"></img></a>
-        <a id="project-4" href="https://brutchley9.github.io/brad-hutchison-portfolio-page/"><img src="/portfoliopage.png"></img></a>
+        <a id="project-4" href="https://ctrl-core-main-1d9d74a238b6.herokuapp.com/"><img src="/ctrlcorescreenshot.png"></img></a>
         
       </div>
     );
